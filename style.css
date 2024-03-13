@@ -1,0 +1,28 @@
+body {
+	background: #a8a8a8
+}
+
+#banner {
+	width: 100%;
+	width: 1900px;
+	height: 650px;
+}
+
+h1 {
+	text-align: center;
+	color: rgb(255, 255, 255);
+	border: 5px solid rgb(0, 0, 0);
+	padding: 20px;
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #ffffff;
+}
