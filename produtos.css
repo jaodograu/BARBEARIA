@@ -1,3 +1,30 @@
 header {
-    background: #bbbbbb;
+    background: #a162d4;
 }
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px
+}
+
+nav {
+    position: absolute;
+    right: 60px;
+    top: 200px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+
